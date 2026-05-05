@@ -37,10 +37,7 @@ GitHub: https://github.com/emon1432
 
 ---
 
-### 🧑‍💻 Development Team
-#### **Hasnain Sadid**  
-**Web Developer**  
-GitHub: https://github.com/hasnainsadid  
+### 🧑‍💻 Development Team 
 
 #### **Santo**  
 **Web Developer**  
@@ -49,9 +46,9 @@ GitHub: https://github.com/shantowanitbd
 ---
 
 ### 🎨 Design
-#### **Imrul Hasan**  
+#### **Mahmudul Islam**  
 **UI/UX Designer**  
-GitHub: https://github.com/Imrul00729  
+GitHub: https://github.com/Mahmudul-Islam-Ovi
 
 
 ## Our Mission
